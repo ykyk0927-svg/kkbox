@@ -1,0 +1,22 @@
+{
+  "spider": "https://fs.144.eu.org/jar/custom_spider.jar;md5=35643666d6d4a222883395726245d429",
+  "sites": [
+    {
+      "key": "AliYunPanOpen",
+      "name": "🏡 家庭专享 (云盘Open版)",
+      "type": 3,
+      "api": "csp_AliYunPanOpen",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "token": "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJzdWIiOiIyNGJjZWYxMTlkMzc0YzNiYmU0ZTMwMmNjODA1MWRkYyIsImF1ZCI6ImI4Yzk5MGU2MGIxODQ0NmViMDdmNWRjYTMwMzk4ZThhIiwiZXhwIjoxNzc5MTkyNDA1LCJpYXQiOjE3NzE0MTY0MDUsImp0aSI6IjYxZGU3YjhlNTIyMTQ4MTc5MWZiZmI3ZjY2NDczMWFjIn0.eox6rFAMpiPs5SEGttif4BAjbkOdd0b79RsDm9odZeZVM0pqmJcR2cjLU1hQtog8qpi63d_PMAUksH1_Ez8Plw",
+        "open_token": "http://127.0.0.1:9978/file/tvbox/token.txt",
+        "siteUrl": "http://127.0.0.1:9978/file/tvbox"
+      }
+    }
+  ],
+  "lives": [],
+  "parses": [],
+  "flags": []
+}
