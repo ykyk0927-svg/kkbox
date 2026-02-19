@@ -1,5 +1,5 @@
 {
-  "spider": "https://jsd.cdn.zzko.cn/gh/FongMi/CatVodSpider@main/jar/custom_spider.jar",
+  "spider": "https://fastly.jsdelivr.net/gh/FongMi/CatVodSpider@main/jar/custom_spider.jar",
   "sites": [
     {
       "key": "AliYunPanOpen",
