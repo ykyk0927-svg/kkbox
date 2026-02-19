@@ -1,5 +1,5 @@
 {
-  "spider": "https://kkgithub.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
+  "spider": "http://饭太硬.top/tv/lib/spider.jar",
   "sites": [
     {
       "key": "AliYunPanOpen",
@@ -10,7 +10,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": {
-        "token": "http://127.0.0.1:9978/file/tvbox/token.txt"
+        "token": "bedf29a998ed4c4f80dad13bffd5e363"
       }
     }
   ]
