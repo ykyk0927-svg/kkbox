@@ -1,5 +1,5 @@
 {
-  "spider": "https://kkgithub.com/FongMi/CatVodSpider/raw/main/jar/custom_spider.jar",
+  "spider": "https://jihulab.com/okcaptain/kbox/-/raw/main/jar/custom_spider.jar",
   "sites": [
     {
       "key": "AliYunPanOpen",
